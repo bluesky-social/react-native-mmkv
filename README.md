@@ -1,3 +1,16 @@
+# This is a fork of `mrousavy/react-native-mmkv`
+
+This fork adds 16kb page size support to the unmaintained 2.x version of `react-native-mmkv`, as we're currently stuck on the Old Architecture.
+
+Changes:
+
+- Updated MMKV to the latest 1.3 LTS version, which adds 16kb page size support
+- Added a flag to compile `reactnativemmkv.so` with 16kb page size support
+
+Original Readme below:
+
+---
+
 <a href="https://margelo.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/banner-dark.png" />
