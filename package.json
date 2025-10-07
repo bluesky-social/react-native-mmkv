@@ -1,5 +1,5 @@
 {
-  "name": "@mozzius/react-native-mmkv",
+  "name": "@bsky.app/react-native-mmkv",
   "version": "2.12.4",
   "description": "The fastest key/value storage for React Native. ~30x faster than AsyncStorage! Works on Android, iOS and Web.",
   "main": "lib/commonjs/index",
@@ -47,13 +47,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/mozzius/react-native-mmkv",
+  "repository": "https://github.com/bluesky-social/react-native-mmkv",
   "author": "Marc Rousavy <marcrousavy@hotmail.com> (https://github.com/mrousavy)",
   "license": "(MIT AND BSD-3-Clause)",
   "bugs": {
-    "url": "https://github.com/mozzius/react-native-mmkv/issues"
+    "url": "https://github.com/bluesky-social/react-native-mmkv/issues"
   },
-  "homepage": "https://github.com/mozzius/react-native-mmkv#readme",
+  "homepage": "https://github.com/bluesky-social/react-native-mmkv#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
